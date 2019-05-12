@@ -1,0 +1,34 @@
+
+
+.app-container{
+    width:400px;
+    height:600px;
+    display: flex;
+    flex-flow: row wrap;
+    align-content:flex-start; 
+    margin-top: 20%;
+    padding: 0;
+
+}
+
+
+
+.action-button-container{
+    display:flex;
+    flex-flow: row wrap;
+    width:400px;
+}
+
+.numberspad-container {
+    display: flex;
+    flex-flow: row wrap;
+    width:300px;
+    margin:0;
+    padding:0;
+}
+
+.arithmatic-buttons-wrapper{
+    display: flex;
+    flex-flow:column wrap;
+    width:100px;
+}

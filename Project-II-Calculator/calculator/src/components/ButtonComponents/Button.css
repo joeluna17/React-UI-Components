@@ -1,0 +1,37 @@
+
+
+.defaultButtonStyle{
+    height:100px;
+    width:100px;
+    border:0px 0px 2px 2px solid grey;
+    font-size:45px;
+    font-weight: bold;
+    margin:0;
+    padding: 0;
+    font-family: 'Lato', sans-serif;
+    font-weight: 500;
+}
+
+.long-button{
+    width:300px;
+}
+
+.long-button-text{
+    width:300px;
+    font-weight: 100;
+}
+
+
+
+.basicArith-button{
+    background-color:darkred;
+    color:white;
+    height:100px;
+    width:100px;
+    border:0 2px 2px 0 solid grey;
+    font-size:50px;
+    margin:0;
+    padding: 0;
+    font-weight: 100;
+    font-family: 'Lato', sans-serif;
+}
