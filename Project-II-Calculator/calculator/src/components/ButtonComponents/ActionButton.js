@@ -5,7 +5,7 @@ import './Button.css';
 
 const ActionButton = props =>{
     return(
-        <button className={props.buttonStyles}>{props.textLabel}</button>
+        <button className={props.buttonStyles} >{props.textLabel}</button>
     )
 }
 
