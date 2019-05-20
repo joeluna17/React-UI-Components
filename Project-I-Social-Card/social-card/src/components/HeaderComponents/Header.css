@@ -1,1 +1,47 @@
 /* All styles for your header Components live here */
+
+
+.header-wrapper{
+    display: flex;
+    flex-flow: row wrap;
+    width: 100%;
+    margin: 0 auto;
+}
+
+
+.thumbnail-img{
+    width:50px;
+    height:50px;
+    margin-top:1.5%;
+    margin:1.5% 1.5% 0 1%; 
+}
+
+
+.header-content{
+    width:85%;
+    
+}
+
+.header-content-wrapper{
+    display:flex;
+    align-items: baseline;
+    flex-flow:row wrap;
+     
+}
+
+.header-content-wrapper h1{
+    font-size:1.4rem;
+    margin-right:1%;
+    margin-top: 2.2%;
+    font-weight:500;
+}
+
+
+.header-content-wrapper span{
+    font-size: 1.2rem;
+    color: grey;
+}
+
+.header-content-info{
+    margin: 2% auto;
+}
